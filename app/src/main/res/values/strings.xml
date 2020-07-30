@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppDogs</string>
+    <string name="main_error_msg">Ha ocurrido un error, por favor intentelo mas tarde</string>
+    <string name="main_query_hint">Ej: Akita, Boxer, Beagle, Basenii</string>
+    <string name="image_content">Dog image</string>
+
+</resources>
